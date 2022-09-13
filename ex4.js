@@ -13,7 +13,7 @@ else if(num % 2 != 0){
 
     console.log('The number is odd');
     const numOdd = parseInt(Math.sqrt(num, 3));
-    console.log(`The square root is ${numOdd}`)
+    console.log(`The cubic root is ${numOdd}`)
 
 }
 
